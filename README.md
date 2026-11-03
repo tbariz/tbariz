@@ -64,7 +64,7 @@ Saya terus belajar, mengembangkan proyek, dan mencari kesempatan untuk bertumbuh
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL here]
+- LinkedIn: https://www.linkedin.com/in/taufiq-bariz-354174132/
 - GitHub: [@tbariz](https://github.com/tbariz)
 
 ---

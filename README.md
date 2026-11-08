@@ -5,21 +5,20 @@
 
 I'm an HR professional with experience in Human Resources Administration, Learning & Development, and Talent Acquisition. Currently, I'm transitioning into Data Analytics and developing my skills in SQL, Python, and data visualization.
 
-Saya seorang profesional HR dengan pengalaman di bidang administrasi Human Resources, Learning & Development, dan Talent Acquisition. Saat ini, saya sedang bertransisi ke bidang Data Analytics dan mengembangkan kemampuan SQL, Python, serta visualisasi data.
+_Saya seorang profesional HR dengan pengalaman di bidang administrasi Human Resources, Learning & Development, dan Talent Acquisition. Saat ini, saya sedang bertransisi ke bidang Data Analytics dan mengembangkan kemampuan SQL, Python, serta visualisasi data._
 
 ---
 
 ## 👨‍💻 About Me
 
 - 💼 Background in Human Resources and Learning & Development.
+- 💼 _Memiliki latar belakang di bidang Human Resources dan Learning & Development._
 - 📊 Interested in Data Analytics, People Analytics, and Business Intelligence.
+- 📊 _Tertarik pada Data Analytics, People Analytics, dan Business Intelligence._
 - 🌱 Currently improving my skills in SQL, Python, and Exploratory Data Analysis.
+- 🌱 _Sedang meningkatkan kemampuan SQL, Python, dan Exploratory Data Analysis._
 - 🔍 Exploring how data can support better business decisions.
-
-- 💼 Memiliki latar belakang di bidang Human Resources dan Learning & Development.
-- 📊 Tertarik pada Data Analytics, People Analytics, dan Business Intelligence.
-- 🌱 Sedang meningkatkan kemampuan SQL, Python, dan Exploratory Data Analysis.
-- 🔍 Tertarik mempelajari bagaimana data dapat membantu pengambilan keputusan bisnis.
+- 🔍 _Tertarik mempelajari bagaimana data dapat membantu pengambilan keputusan bisnis._
 
 ---
 
@@ -43,7 +42,7 @@ Here are some of my learning projects and data analytics explorations.
 Berikut beberapa proyek pembelajaran dan eksplorasi data analytics yang pernah saya kerjakan.
 
 - **Customer Lifetime Value Prediction** — Exploring customer value prediction using Machine Learning.
-- **Customer Segmentation & Lifecycle** — Analyzing customer behavior and lifecycle patterns.
+- **Employee Attrition** - Analyzing employee attrition patterns.
 - **House Sales Analysis** — Exploring housing data through analysis and visualization.
 - **Bank Marketing Analysis** — Exploring customer behavior and campaign outcomes.
 
